@@ -1,0 +1,11 @@
+Elisha 15 E
+Cielo 20 N
+Andre 17 H
+testrun 21 E
+tester 18 N
+kimi 0 e
+juju 1 e
+hello 1 h
+luh 0 e
+tj 1 n
+cielo 3 e
